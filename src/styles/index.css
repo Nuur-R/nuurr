@@ -67,3 +67,7 @@
     @apply bg-background text-foreground;
   }
 }
+
+.home-intro p {
+  @apply text-2xl font-semibold leading-9;
+}
