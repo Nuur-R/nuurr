@@ -1,6 +1,6 @@
 {
-  "commit": "cc24ee776a0b7568a4a7834191beb18d349444f8",
-  "generated": "2024-11-20T00:53:27.386Z",
+  "commit": "df6751dd244648d370e7cbc6219db5c1d7d326e1",
+  "generated": "2024-11-20T00:56:16.623Z",
   "metadata": [
     {
       "__outstatic": {
@@ -154,6 +154,34 @@
       "slug": "lorem",
       "status": "published",
       "title": "Lorem"
+    },
+    {
+      "__outstatic": {
+        "commit": "df6751dd244648d370e7cbc6219db5c1d7d326e1",
+        "hash": "940619705",
+        "path": "outstatic/content/posts/lorem-ipsum-dolor.md"
+      },
+      "author": {
+        "name": "Firdaus Nuur Rhamadhan",
+        "picture": "https://avatars.githubusercontent.com/u/93628058?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/b-003-I3Nz.jpg",
+      "description": "Eget aliquam orci pharetra diam nec litora tortor?",
+      "publishedAt": "2024-11-20T01:36:50.661Z",
+      "slug": "lorem-ipsum-dolor",
+      "status": "published",
+      "tags": [
+        {
+          "label": "NextJs",
+          "value": "nextJs"
+        },
+        {
+          "label": "Outstatic",
+          "value": "outstatic"
+        }
+      ],
+      "title": "Lorem Ipsum Dolor"
     }
   ]
 }
