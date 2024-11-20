@@ -1,6 +1,6 @@
 ---
 title: 'Lorem'
-status: 'draft'
+status: 'published'
 author:
   name: 'Firdaus Nuur Rhamadhan'
   picture: 'https://avatars.githubusercontent.com/u/93628058?v=4'
